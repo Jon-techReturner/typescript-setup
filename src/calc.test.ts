@@ -1,4 +1,4 @@
-import { sum } from "../src/calc";
+import { sum } from "./calc";
 
 describe("test add function", () => {
     it("should return 15 for sum(10,5)", () => {
